@@ -6,24 +6,24 @@ description: "Hear from satisfied customers!"
 # Testimonials
 testimonials:
   - name: "Marvin McKinney"
-    designation: "Drug Dealer"
+    designation: "Yes Man"
     avatar: "/images/avatar-sm.png"
-    content: "Justyn smells like farts"
+    content: "Yes Yes Yes"
 
   - name: "Johnny Cash"
-    designation: "Cool guy who died"
+    designation: "Cool Guy"
     avatar: "/images/avatar-sm.png"
-    content: "Looked exactly like it did before he cleaned it. In fact I think he pooed in the back seat."
+    content: "Awesome Detailing"
 
-  - name: "Donald Trump"
-    designation: "America's greatest president as per him"
+  - name: "Justyn Trudue"
+    designation: "A prime minister"
     avatar: "/images/avatar-sm.png"
     content: "He was the greatest car detailer, he built a great wall."
 
   - name: "Corrie ten Boom"
-    designation: "Holocaust survivor"
+    designation: "John Doe"
     avatar: "/images/avatar-sm.png"
-    content: "Jesus told me to forgive him for spray painting a Swastika on the hood."
+    content: "Justyn is a cool guy."
 
 # don't create a separate page
 _build:

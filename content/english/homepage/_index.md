@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get A Quote"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "contact"
 
 # Features
 #features:
