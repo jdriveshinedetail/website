@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Get your car detailed by our professional detailer: Justyn Skubovius"
-  content: "At J-Drive Shine & Detail we are passionate about helping you rediscover the true beauty of your vehicle. Nestled in the Transcona, our car detailing expert is dedicated to delivering top-notch automotive care that goes beyond the surface. With a keen eye for detail and a commitment to excellence, Justyn provides a range of services that will leave your car looking as close to brand new as possible!"
+  content: "At J-Drive Shine & Detail we are passionate about helping you rediscover the true beauty of your vehicle. Nestled in Transcona, our car detailing expert is dedicated to delivering top-notch automotive care that goes beyond the surface. With a keen eye for detail and a commitment to excellence, Justyn provides a range of services that will leave your car looking as close to brand new as possible!"
   image: "/images/banner.png"
   button:
     enable: true
