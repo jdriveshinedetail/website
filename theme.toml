@@ -6,7 +6,7 @@ homepage = "https://github.com/zeon-studio/hugoplate"
 demosite = "https://hugoplate.netlify.app/"
 min_version = "0.115.4"
 
-tags = [
+ tags = [
   "blog",
   "responsive",
   "minimal",
